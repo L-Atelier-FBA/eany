@@ -1,38 +1,20 @@
 [
   {
-    "ean": "0674326288826",
-    "asin": "B01GX873SY",
-    "name": "DeWALT Safety Glasses \u2013 Dark",
-    "supplier_cost": 8.676,
-    "amazon_price": 25.74,
-    "fees": 9.95,
-    "profit": 5.123999999999999,
-    "roi": 59.0594744121715,
-    "estimated_sales": 63,
-    "amazon_link": "https://www.amazon.fr/dp/B01GX873SY",
-    "supplier_link": "https://eany.io/product/0674326288826",
-    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B01GX873SY",
-    "image_url": "https://m.media-amazon.com/images/I/31IC2Qn7FBL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-04-22T10:09:30.220084+00:00",
-    "created_at": "2026-04-22T06:12:06.540601+00:00"
-  },
-  {
     "ean": "0076490626570",
     "asin": "B0CV7WH8M7",
     "name": "Ansell HyFlex 11-571 Safety Gloves \u2013 Cut Resistance Level D \u2013 Size 9 \u2013 Black",
     "supplier_cost": 18.252,
     "amazon_price": 144.33,
-    "fees": 29.27,
-    "profit": 90.95400000000002,
-    "roi": 498.3234714003946,
-    "estimated_sales": 561,
+    "fees": 53.33,
+    "profit": 62.08200000000002,
+    "roi": 340.1380670611441,
+    "estimated_sales": 556,
     "amazon_link": "https://www.amazon.fr/dp/B0CV7WH8M7",
     "supplier_link": "https://eany.io/product/0076490626570",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0CV7WH8M7",
     "image_url": "https://m.media-amazon.com/images/I/51gKiXeDVaL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-04-22T10:09:46.295613+00:00",
-    "created_at": "2026-04-22T06:28:33.872260+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-04-22T17:59:37.808338+00:00"
   }
 ]

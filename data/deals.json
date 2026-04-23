@@ -1,20 +1,20 @@
 [
   {
-    "ean": "0076490626570",
-    "asin": "B0CV7WH8M7",
-    "name": "Ansell HyFlex 11-571 Safety Gloves \u2013 Cut Resistance Level D \u2013 Size 9 \u2013 Black",
-    "supplier_cost": 18.252,
-    "amazon_price": 144.33,
-    "fees": 53.33,
-    "profit": 62.08200000000002,
-    "roi": 340.1380670611441,
-    "estimated_sales": 556,
-    "amazon_link": "https://www.amazon.fr/dp/B0CV7WH8M7",
-    "supplier_link": "https://eany.io/product/0076490626570",
-    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0CV7WH8M7",
-    "image_url": "https://m.media-amazon.com/images/I/51gKiXeDVaL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-04-22T18:24:50.257772+00:00",
-    "created_at": "2026-04-22T17:59:37.808338+00:00"
+    "ean": "6952344206317",
+    "asin": "B079VFJL32",
+    "name": "Godox 303 Light Stand \u2013 Max Height 260 cm \u2013 Aluminum",
+    "supplier_cost": 25.536,
+    "amazon_price": 49.8,
+    "fees": 17.02,
+    "profit": 7.244,
+    "roi": 28.367794486215537,
+    "estimated_sales": 20,
+    "amazon_link": "https://www.amazon.fr/dp/B079VFJL32",
+    "supplier_link": "https://eany.io/product/6952344206317",
+    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B079VFJL32",
+    "image_url": "https://m.media-amazon.com/images/I/3195APT-tgL._SL120_.jpg",
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-04-23T06:24:22.316418+00:00"
   }
 ]

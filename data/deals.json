@@ -13,8 +13,8 @@
     "supplier_link": "https://eany.io/product/0050234710176",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B00008Y0VU",
     "image_url": "https://m.media-amazon.com/images/I/41vWPzh6ZsL._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-05-05T10:27:14.847236+00:00",
     "created_at": "2026-05-05T06:34:22.291510+00:00"
   }
 ]

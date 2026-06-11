@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "ean": "0926798911642",
+    "asin": "B08YXCDFLF",
+    "name": "Kodak Glossy Photo Paper \u2013 10 x 15 cm \u2013 230 g/m\u00b2 \u2013 100 Sheets",
+    "supplier_cost": 4.823999999999999,
+    "amazon_price": 16.28,
+    "fees": 8.13,
+    "profit": 3.3260000000000014,
+    "roi": 68.94693200663355,
+    "estimated_sales": 67,
+    "amazon_link": "https://www.amazon.fr/dp/B08YXCDFLF",
+    "supplier_link": "https://eany.io/product/0926798911642",
+    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B08YXCDFLF",
+    "image_url": "https://m.media-amazon.com/images/I/415GvOWz-2L._SL120_.jpg",
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-06-11T08:57:03.266788+00:00"
+  }
+]

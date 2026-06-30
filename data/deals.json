@@ -13,8 +13,8 @@
     "supplier_link": "https://eany.io/product/5055277037070",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B084S9YRZ9",
     "image_url": "https://m.media-amazon.com/images/I/61M88RLyPML._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-06-30T11:37:36.586755+00:00",
     "created_at": "2026-06-30T08:01:11.278535+00:00"
   },
   {
@@ -31,8 +31,8 @@
     "supplier_link": "https://eany.io/product/9120131603169",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0F9X5RRVQ",
     "image_url": "https://m.media-amazon.com/images/I/518blUzV2BL._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-06-30T11:38:01.255465+00:00",
     "created_at": "2026-06-30T08:08:53.458917+00:00"
   }
 ]

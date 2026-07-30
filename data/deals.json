@@ -13,8 +13,8 @@
     "supplier_link": "https://eany.io/product/4548736166950",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0FLQ1MF47",
     "image_url": "https://m.media-amazon.com/images/I/41tqhVsdRbL._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-07-30T10:57:01.191470+00:00",
     "created_at": "2026-07-30T06:40:58.470534+00:00"
   },
   {
@@ -31,8 +31,8 @@
     "supplier_link": "https://eany.io/product/4897098682760",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B094DM9LZQ",
     "image_url": "https://m.media-amazon.com/images/I/31GtTj+7l6L._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-07-30T10:57:22.568960+00:00",
     "created_at": "2026-07-30T06:44:05.931293+00:00"
   },
   {
@@ -49,8 +49,8 @@
     "supplier_link": "https://eany.io/product/4548736160781",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0D8QQVXJ1",
     "image_url": "https://m.media-amazon.com/images/I/31ECL6cWaIL._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-07-30T10:57:39.862067+00:00",
     "created_at": "2026-07-30T06:47:01.547567+00:00"
   },
   {
@@ -67,8 +67,8 @@
     "supplier_link": "https://eany.io/product/6941812775004",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0CY63825L",
     "image_url": "https://m.media-amazon.com/images/I/31HgIsQAktL._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-07-30T10:57:58.755995+00:00",
     "created_at": "2026-07-30T06:48:19.777776+00:00"
   },
   {
@@ -85,8 +85,8 @@
     "supplier_link": "https://eany.io/product/6936422111083",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0FY2L9XYZ",
     "image_url": "https://m.media-amazon.com/images/I/31+Ilgym1zL._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-07-30T10:58:28.662633+00:00",
     "created_at": "2026-07-30T07:13:58.173774+00:00"
   }
 ]

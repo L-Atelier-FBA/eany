@@ -8,13 +8,13 @@
     "fees": 9.01,
     "profit": 8.522000000000006,
     "roi": 42.17141726049093,
-    "estimated_sales": 102,
+    "estimated_sales": 103,
     "amazon_link": "https://www.amazon.fr/dp/B094DM9LZQ",
     "supplier_link": "https://eany.io/product/4897098682760",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B094DM9LZQ",
     "image_url": "https://m.media-amazon.com/images/I/31GtTj+7l6L._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-08-11T09:48:44.425831+00:00",
-    "created_at": "2026-08-11T05:27:46.970322+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-08-12T05:56:34.356210+00:00"
   }
 ]

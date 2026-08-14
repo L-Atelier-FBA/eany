@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "ean": "0191628260430",
+    "asin": "B075T3CLPH",
+    "name": "HP Sprocket Photo Paper \u2013 2.3 x 3.4 Inch \u2013 20 Sheets \u2013 Zink Sticky Back",
+    "supplier_cost": 13.62,
+    "amazon_price": 27.4,
+    "fees": 8.14,
+    "profit": 5.639999999999999,
+    "roi": 41.409691629955944,
+    "estimated_sales": 77,
+    "amazon_link": "https://www.amazon.fr/dp/B075T3CLPH",
+    "supplier_link": "https://eany.io/product/0191628260430",
+    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B075T3CLPH",
+    "image_url": "https://m.media-amazon.com/images/I/41SqjyixaTL._SL120_.jpg",
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-08-14T05:41:31.306155+00:00"
+  },
+  {
+    "ean": "3760265547128",
+    "asin": "B0F6D347NP",
+    "name": "AgfaPhoto Realikids Cam Waterproof 2 \u2013 12MP Kids Camera \u2013 HD Video \u2013 Selfie Mode \u2013 Blue",
+    "supplier_cost": 46.391999999999996,
+    "amazon_price": 69.49,
+    "fees": 11.09,
+    "profit": 12.007999999999996,
+    "roi": 25.883773064321424,
+    "estimated_sales": 29,
+    "amazon_link": "https://www.amazon.fr/dp/B0F6D347NP",
+    "supplier_link": "https://eany.io/product/3760265547128",
+    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0F6D347NP",
+    "image_url": "https://m.media-amazon.com/images/I/31ovWCpJkQL._SL120_.jpg",
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-08-14T05:54:48.756539+00:00"
+  }
+]

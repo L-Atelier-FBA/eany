@@ -4,17 +4,17 @@
     "asin": "B075T3CLPH",
     "name": "HP Sprocket Photo Paper \u2013 2.3 x 3.4 Inch \u2013 20 Sheets \u2013 Zink Sticky Back",
     "supplier_cost": 13.62,
-    "amazon_price": 27.45,
-    "fees": 8.15,
-    "profit": 5.679999999999998,
-    "roi": 41.703377386196756,
+    "amazon_price": 27.34,
+    "fees": 8.13,
+    "profit": 5.590000000000002,
+    "roi": 41.042584434654934,
     "estimated_sales": 76,
     "amazon_link": "https://www.amazon.fr/dp/B075T3CLPH",
     "supplier_link": "https://eany.io/product/0191628260430",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B075T3CLPH",
     "image_url": "https://m.media-amazon.com/images/I/41SqjyixaTL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-08-16T09:15:41.256626+00:00",
-    "created_at": "2026-08-16T04:40:16.901298+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-08-17T04:47:38.509731+00:00"
   }
 ]

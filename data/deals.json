@@ -1,5 +1,23 @@
 [
   {
+    "ean": "0191628260430",
+    "asin": "B075T3CLPH",
+    "name": "HP Sprocket Photo Paper \u2013 2.3 x 3.4 Inch \u2013 20 Sheets \u2013 Zink Sticky Back",
+    "supplier_cost": 13.62,
+    "amazon_price": 29.67,
+    "fees": 8.49,
+    "profit": 7.5600000000000005,
+    "roi": 55.506607929515425,
+    "estimated_sales": 50,
+    "amazon_link": "https://www.amazon.fr/dp/B075T3CLPH",
+    "supplier_link": "https://eany.io/product/0191628260430",
+    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B075T3CLPH",
+    "image_url": "https://m.media-amazon.com/images/I/41SqjyixaTL._SL120_.jpg",
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-08-28T16:27:55.117064+00:00"
+  },
+  {
     "ean": "0192143000907",
     "asin": "B07TLY6X9S",
     "name": "Agfa AMC20 Film \u2013 2/3 Size \u2013 20 Photos",
@@ -8,14 +26,14 @@
     "fees": 10.22,
     "profit": 4.3759999999999994,
     "roi": 28.78189950013154,
-    "estimated_sales": 43,
+    "estimated_sales": 29,
     "amazon_link": "https://www.amazon.fr/dp/B07TLY6X9S",
     "supplier_link": "https://eany.io/product/0192143000907",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B07TLY6X9S",
     "image_url": "https://m.media-amazon.com/images/I/411T5xHey9L._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-08-27T19:18:27.901808+00:00",
-    "created_at": "2026-08-27T15:06:09.490831+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-08-28T16:28:15.454719+00:00"
   },
   {
     "ean": "4897098682760",
@@ -26,13 +44,31 @@
     "fees": 8.85,
     "profit": 6.532000000000004,
     "roi": 32.3238321456849,
-    "estimated_sales": 130,
+    "estimated_sales": 149,
     "amazon_link": "https://www.amazon.fr/dp/B094DM9LZQ",
     "supplier_link": "https://eany.io/product/4897098682760",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B094DM9LZQ",
     "image_url": "https://m.media-amazon.com/images/I/31GtTj+7l6L._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-08-27T19:18:54.488549+00:00",
-    "created_at": "2026-08-27T15:19:44.029144+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-08-28T16:39:05.940550+00:00"
+  },
+  {
+    "ean": "4548736166332",
+    "asin": "B0DPN61QNZ",
+    "name": "Sony Alpha 6400 Kit \u2013 Mirrorless Camera \u2013 24.2 MP \u2013 16-50 mm Lens",
+    "supplier_cost": 825.732,
+    "amazon_price": 1149.0,
+    "fees": 90.17,
+    "profit": 233.09799999999996,
+    "roi": 28.229255981359564,
+    "estimated_sales": 24,
+    "amazon_link": "https://www.amazon.fr/dp/B0DPN61QNZ",
+    "supplier_link": "https://eany.io/product/4548736166332",
+    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0DPN61QNZ",
+    "image_url": "https://m.media-amazon.com/images/I/51DHDNiO9RL._SL120_.jpg",
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-08-28T16:48:31.248393+00:00"
   }
 ]

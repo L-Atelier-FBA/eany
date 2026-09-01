@@ -13,8 +13,8 @@
     "supplier_link": "https://eany.io/product/0191628260430",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B075T3CLPH",
     "image_url": "https://m.media-amazon.com/images/I/41SqjyixaTL._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-09-01T13:45:31.451394+00:00",
     "created_at": "2026-09-01T09:18:57.415489+00:00"
   },
   {
@@ -31,8 +31,8 @@
     "supplier_link": "https://eany.io/product/4252011901340",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0B9HKRYWX",
     "image_url": "https://m.media-amazon.com/images/I/21hdwEwuOjL._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-09-01T13:45:57.289096+00:00",
     "created_at": "2026-09-01T09:23:17.844968+00:00"
   },
   {
@@ -49,8 +49,8 @@
     "supplier_link": "https://eany.io/product/6941812767603",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0CSG9TT2G",
     "image_url": "https://m.media-amazon.com/images/I/31tIG74KQ0L._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-09-01T13:46:12.858674+00:00",
     "created_at": "2026-09-01T09:39:18.472142+00:00"
   },
   {
@@ -67,8 +67,8 @@
     "supplier_link": "https://eany.io/product/8885020625660",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0D3814FFN",
     "image_url": "https://m.media-amazon.com/images/I/417fbYZ17BL._SL120_.jpg",
-    "posted": false,
-    "posted_at": null,
+    "posted": true,
+    "posted_at": "2026-09-01T13:46:38.494760+00:00",
     "created_at": "2026-09-01T09:59:25.966163+00:00"
   }
 ]

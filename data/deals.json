@@ -1,23 +1,5 @@
 [
   {
-    "ean": "0191628260430",
-    "asin": "B075T3CLPH",
-    "name": "HP Sprocket Photo Paper \u2013 2.3 x 3.4 Inch \u2013 20 Sheets \u2013 Zink Sticky Back",
-    "supplier_cost": 13.62,
-    "amazon_price": 29.67,
-    "fees": 8.49,
-    "profit": 7.5600000000000005,
-    "roi": 55.506607929515425,
-    "estimated_sales": 61,
-    "amazon_link": "https://www.amazon.fr/dp/B075T3CLPH",
-    "supplier_link": "https://eany.io/product/0191628260430",
-    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B075T3CLPH",
-    "image_url": "https://m.media-amazon.com/images/I/41SqjyixaTL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-04T12:59:10.452967+00:00",
-    "created_at": "2026-09-04T08:40:00.512418+00:00"
-  },
-  {
     "ean": "4897098682760",
     "asin": "B094DM9LZQ",
     "name": "TP-Link Tapo C110 Home Security Wi-Fi Camera \u2013 3 MP \u2013 Cube Design \u2013 Night Vision \u2013 Motion Detection",
@@ -26,13 +8,13 @@
     "fees": 8.89,
     "profit": 6.852000000000004,
     "roi": 33.90736342042758,
-    "estimated_sales": 103,
+    "estimated_sales": 102,
     "amazon_link": "https://www.amazon.fr/dp/B094DM9LZQ",
     "supplier_link": "https://eany.io/product/4897098682760",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B094DM9LZQ",
     "image_url": "https://m.media-amazon.com/images/I/31GtTj+7l6L._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-04T12:59:28.329810+00:00",
-    "created_at": "2026-09-04T08:50:20.891577+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-09-05T08:25:28.337759+00:00"
   }
 ]

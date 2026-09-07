@@ -8,14 +8,14 @@
     "fees": 6.28,
     "profit": 4.805999999999998,
     "roi": 110.63535911602204,
-    "estimated_sales": 15,
+    "estimated_sales": 7,
     "amazon_link": "https://www.amazon.fr/dp/B000BS3RLA",
     "supplier_link": "https://eany.io/product/4960999294049",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B000BS3RLA",
     "image_url": "https://m.media-amazon.com/images/I/41aB0l9cUnL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-06T12:26:01.075637+00:00",
-    "created_at": "2026-09-06T08:35:10.168998+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-09-07T09:21:54.428925+00:00"
   },
   {
     "ean": "4897098682760",
@@ -26,13 +26,13 @@
     "fees": 8.89,
     "profit": 6.852000000000004,
     "roi": 33.90736342042758,
-    "estimated_sales": 95,
+    "estimated_sales": 97,
     "amazon_link": "https://www.amazon.fr/dp/B094DM9LZQ",
     "supplier_link": "https://eany.io/product/4897098682760",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B094DM9LZQ",
     "image_url": "https://m.media-amazon.com/images/I/31GtTj+7l6L._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-06T12:26:26.542608+00:00",
-    "created_at": "2026-09-06T08:41:05.912877+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-09-07T09:36:48.440670+00:00"
   }
 ]

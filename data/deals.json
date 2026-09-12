@@ -8,32 +8,32 @@
     "fees": 10.31,
     "profit": 4.756000000000002,
     "roi": 31.281241778479362,
-    "estimated_sales": 40,
+    "estimated_sales": 25,
     "amazon_link": "https://www.amazon.fr/dp/B07TLY6X9S",
     "supplier_link": "https://eany.io/product/0192143000907",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B07TLY6X9S",
     "image_url": "https://m.media-amazon.com/images/I/411T5xHey9L._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-11T13:04:47.434711+00:00",
-    "created_at": "2026-09-11T08:48:07.487314+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-09-12T08:32:08.914384+00:00"
   },
   {
     "ean": "4960999294049",
     "asin": "B000BS3RLA",
     "name": "Canon GP-501 Glossy Photo Paper \u2013 10 x 15 cm \u2013 10 Sheets \u2013 210 g/m\u00b2",
     "supplier_cost": 4.344,
-    "amazon_price": 15.66,
-    "fees": 6.32,
-    "profit": 4.9959999999999996,
-    "roi": 115.00920810313073,
-    "estimated_sales": 37,
+    "amazon_price": 11.96,
+    "fees": 5.22,
+    "profit": 2.396000000000001,
+    "roi": 55.15653775322284,
+    "estimated_sales": 40,
     "amazon_link": "https://www.amazon.fr/dp/B000BS3RLA",
     "supplier_link": "https://eany.io/product/4960999294049",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B000BS3RLA",
     "image_url": "https://m.media-amazon.com/images/I/41aB0l9cUnL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-11T13:05:15.300899+00:00",
-    "created_at": "2026-09-11T08:54:20.716720+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-09-12T08:36:56.367793+00:00"
   },
   {
     "ean": "4897098682760",
@@ -44,13 +44,13 @@
     "fees": 9.64,
     "profit": 6.102000000000004,
     "roi": 30.195961995249426,
-    "estimated_sales": 118,
+    "estimated_sales": 95,
     "amazon_link": "https://www.amazon.fr/dp/B094DM9LZQ",
     "supplier_link": "https://eany.io/product/4897098682760",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B094DM9LZQ",
     "image_url": "https://m.media-amazon.com/images/I/31GtTj+7l6L._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-11T13:05:33.280928+00:00",
-    "created_at": "2026-09-11T09:00:59.360728+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-09-12T08:42:51.740569+00:00"
   }
 ]

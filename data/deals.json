@@ -1,23 +1,5 @@
 [
   {
-    "ean": "4960999294049",
-    "asin": "B000BS3RLA",
-    "name": "Canon GP-501 Glossy Photo Paper \u2013 10 x 15 cm \u2013 10 Sheets \u2013 210 g/m\u00b2",
-    "supplier_cost": 4.344,
-    "amazon_price": 15.17,
-    "fees": 6.25,
-    "profit": 4.576,
-    "roi": 105.34069981583791,
-    "estimated_sales": 34,
-    "amazon_link": "https://www.amazon.fr/dp/B000BS3RLA",
-    "supplier_link": "https://eany.io/product/4960999294049",
-    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B000BS3RLA",
-    "image_url": "https://m.media-amazon.com/images/I/41aB0l9cUnL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-14T15:21:18.289154+00:00",
-    "created_at": "2026-09-14T09:51:56.912041+00:00"
-  },
-  {
     "ean": "4897098682760",
     "asin": "B094DM9LZQ",
     "name": "TP-Link Tapo C110 Home Security Wi-Fi Camera \u2013 3 MP \u2013 Cube Design \u2013 Night Vision \u2013 Motion Detection",
@@ -26,32 +8,14 @@
     "fees": 9.65,
     "profit": 6.222000000000001,
     "roi": 30.789786223277922,
-    "estimated_sales": 92,
+    "estimated_sales": 93,
     "amazon_link": "https://www.amazon.fr/dp/B094DM9LZQ",
     "supplier_link": "https://eany.io/product/4897098682760",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B094DM9LZQ",
     "image_url": "https://m.media-amazon.com/images/I/31GtTj+7l6L._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-14T15:21:44.516468+00:00",
-    "created_at": "2026-09-14T10:02:19.833153+00:00"
-  },
-  {
-    "ean": "3760265547128",
-    "asin": "B0F6D347NP",
-    "name": "AgfaPhoto Realikids Cam Waterproof 2 \u2013 12MP Kids Camera \u2013 HD Video \u2013 Selfie Mode \u2013 Blue",
-    "supplier_cost": 46.391999999999996,
-    "amazon_price": 69.99,
-    "fees": 11.13,
-    "profit": 12.467999999999996,
-    "roi": 26.87532333160889,
-    "estimated_sales": 7,
-    "amazon_link": "https://www.amazon.fr/dp/B0F6D347NP",
-    "supplier_link": "https://eany.io/product/3760265547128",
-    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0F6D347NP",
-    "image_url": "https://m.media-amazon.com/images/I/31ovWCpJkQL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-14T15:22:10.967365+00:00",
-    "created_at": "2026-09-14T10:04:08.782097+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-09-15T09:40:18.688061+00:00"
   },
   {
     "ean": "6941812767603",
@@ -62,13 +26,13 @@
     "fees": 11.81,
     "profit": 10.80599999999999,
     "roi": 25.139586823003885,
-    "estimated_sales": 377,
+    "estimated_sales": 286,
     "amazon_link": "https://www.amazon.fr/dp/B0CSG9TT2G",
     "supplier_link": "https://eany.io/product/6941812767603",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0CSG9TT2G",
     "image_url": "https://m.media-amazon.com/images/I/31tIG74KQ0L._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-14T15:22:28.510273+00:00",
-    "created_at": "2026-09-14T10:04:35.788187+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-09-15T09:42:30.257986+00:00"
   }
 ]

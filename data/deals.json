@@ -1,23 +1,5 @@
 [
   {
-    "ean": "6976391037113",
-    "asin": "B0DW9HZJPD",
-    "name": "IMOU Rex VT Pro Indoor Camera \u2013 5MP \u2013 Pan Tilt \u2013 Night Vision \u2013 Smart Tracking",
-    "supplier_cost": 32.687999999999995,
-    "amazon_price": 52.32,
-    "fees": 11.0,
-    "profit": 8.632000000000005,
-    "roi": 26.40724424865396,
-    "estimated_sales": 12,
-    "amazon_link": "https://www.amazon.fr/dp/B0DW9HZJPD",
-    "supplier_link": "https://eany.io/product/6976391037113",
-    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0DW9HZJPD",
-    "image_url": "https://m.media-amazon.com/images/I/31NNVzTN1JL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-18T13:13:40.267194+00:00",
-    "created_at": "2026-09-18T09:07:50.533823+00:00"
-  },
-  {
     "ean": "4897098682760",
     "asin": "B094DM9LZQ",
     "name": "TP-Link Tapo C110 Home Security Wi-Fi Camera \u2013 3 MP \u2013 Cube Design \u2013 Night Vision \u2013 Motion Detection",
@@ -26,31 +8,13 @@
     "fees": 9.64,
     "profit": 6.102000000000004,
     "roi": 30.195961995249426,
-    "estimated_sales": 92,
+    "estimated_sales": 96,
     "amazon_link": "https://www.amazon.fr/dp/B094DM9LZQ",
     "supplier_link": "https://eany.io/product/4897098682760",
     "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B094DM9LZQ",
     "image_url": "https://m.media-amazon.com/images/I/31GtTj+7l6L._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-18T13:13:58.578172+00:00",
-    "created_at": "2026-09-18T09:18:44.419621+00:00"
-  },
-  {
-    "ean": "3760265547128",
-    "asin": "B0F6D347NP",
-    "name": "AgfaPhoto Realikids Cam Waterproof 2 \u2013 12MP Kids Camera \u2013 HD Video \u2013 Selfie Mode \u2013 Blue",
-    "supplier_cost": 46.391999999999996,
-    "amazon_price": 69.99,
-    "fees": 11.13,
-    "profit": 12.467999999999996,
-    "roi": 26.87532333160889,
-    "estimated_sales": 31,
-    "amazon_link": "https://www.amazon.fr/dp/B0F6D347NP",
-    "supplier_link": "https://eany.io/product/3760265547128",
-    "sas_link": "https://sas.selleramp.com/sas/lookup?SasLookup%5Bsearch_term%5D=B0F6D347NP",
-    "image_url": "https://m.media-amazon.com/images/I/31ovWCpJkQL._SL120_.jpg",
-    "posted": true,
-    "posted_at": "2026-09-18T13:14:27.739578+00:00",
-    "created_at": "2026-09-18T09:22:23.072315+00:00"
+    "posted": false,
+    "posted_at": null,
+    "created_at": "2026-09-19T08:55:31.255456+00:00"
   }
 ]
